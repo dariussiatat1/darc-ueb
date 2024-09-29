@@ -1,0 +1,30 @@
+.contind{
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    align-items: center;
+    top: 300px;
+    left: 45%;
+    transform: scale(2);
+}
+
+.butind {
+    background-color: #00ad4e; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 4px 2px;
+    border-radius: 8px;
+  }
+
+.textbuy{
+    position: absolute;
+    top: 5px;
+    left: 35%;
+}    
