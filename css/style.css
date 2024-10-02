@@ -1,7 +1,7 @@
 .text{
     position: absolute;
     align-items: center;
-    top: 300px;
+    top: 400px;
     left: 45%;
     transform: scale(2);
 }
